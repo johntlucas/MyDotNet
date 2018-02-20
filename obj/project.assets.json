@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\MyDotNet.csproj",
+      "projectUniqueName": "C:\\users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\MyDotNet.csproj",
       "projectName": "MyDotNet",
-      "projectPath": "C:\\Users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\MyDotNet.csproj",
+      "projectPath": "C:\\users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\MyDotNet.csproj",
       "packagesPath": "C:\\Users\\John.Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\obj\\",
+      "outputPath": "C:\\users\\John.Lucas\\Desktop\\Darwino\\Exercise Files\\MyDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
