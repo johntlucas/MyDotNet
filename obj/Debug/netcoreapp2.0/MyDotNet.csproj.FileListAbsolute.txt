@@ -1,0 +1,10 @@
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.deps.json
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.runtimeconfig.json
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.runtimeconfig.dev.json
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.dll
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.pdb
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.csproj.CoreCompileInputs.cache
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.AssemblyInfoInputs.cache
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.AssemblyInfo.cs
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.dll
+C:\Users\John.Lucas\Desktop\Darwino\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.pdb
